@@ -35,7 +35,7 @@ AdobeXDはフロントエンドの人だけが使うものじゃない！
 
 ## 登壇者
 
-阿部 信介(@mao_instantlife)/Classmethod, Inc.
+阿部 信介(@mao_instantlife) / Classmethod, Inc.
 
 ## 概要
 
