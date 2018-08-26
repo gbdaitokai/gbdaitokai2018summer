@@ -50,6 +50,21 @@ AdobeXDはフロントエンドの人だけが使うものじゃない！
 
 ## タイトル
 
+PackerとServerspecではじめるインフラ自動化
+
+## 登壇者
+
+大中浩行(@setoazusa) / TDD Boot Camp・日本XPユーザグループ・JJUGイベントスタッフ
+
+## 概要
+
+業務でアトラシアン製品(Jira/Confluence/Bitbucket/Bamboo)の構築自動化を4年ほど進める中で、現在のPackerとServerspecを使用するスタイルにどう変遷していったかをまとめます。
+
+
+***
+
+## タイトル
+
 昔懐かしいインターネットの風物詩を最近の技術で作る話（予定）
 
 ## 登壇者
