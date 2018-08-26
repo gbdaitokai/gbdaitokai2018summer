@@ -1,3 +1,6 @@
 * [Okayama.rb](https://okaruby.connpass.com/)
 * [岡山WEBクリエイターズ](https://www.okaweb.jp/)
 * [JBUG](https://www.facebook.com/JBUG.Official/)
+* [TDDBC](https://tddbc.connpass.com/)
+* [日本XPユーザグループ(XPJUG)](http://xpjug.com/)
+* [日本Javaユーザグループ(JJUG)](http://www.java-users.jp/)
